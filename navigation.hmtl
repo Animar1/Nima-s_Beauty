@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+          a {
+              padding: 8px;
+              color: #fffffe;
+              text-decoration:underline;
+            
+          }
+          a:hover {
+              background-color: #FEFBF3;
+          }
+          body {
+              background-color: #0e5754
+          }
+    </style>
+</head>
+<body>
+    <a href = "index.html" target = "_parent">Home</a> 
+<a href = "Nima's_bookings.html" target = "_parent">What is OCD</a> 
+    <a href = "Client Class.html" target = "_parent">Categories of OCD</a> 
+    <a href = "Shop.html" target = "_parent">Habits</a>
+<a href = "Coupon.html" target = "_parent">Medications</a>
+<a href = "Contact.html" target = "_parent">Form</a>
+</body>
+</html>
